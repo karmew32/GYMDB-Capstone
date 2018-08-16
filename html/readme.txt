@@ -1,0 +1,1 @@
+To use this, open a command window and type "source scenario2.sql". This populates the database with test data.
